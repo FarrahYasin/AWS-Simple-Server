@@ -1,4 +1,5 @@
 # AWS-Simple-Server
-<img width="957" alt="image" src="https://github.com/FarrahYasin/aws-simple-server/assets/117269271/9e370081-bef8-4210-8f72-c1caace40773">
-<img width="959" alt="image" src="https://github.com/FarrahYasin/aws-simple-server/assets/117269271/ec812275-6348-4db0-8759-ac8045390ca8">
+<img width="566" alt="image" src="https://github.com/FarrahYasin/aws-simple-server/assets/117269271/6484a054-d7e5-4832-a744-4cca26758039">
+
+<img width="340" alt="image" src="https://github.com/FarrahYasin/aws-simple-server/assets/117269271/c1633a19-b0f5-4381-a4f9-f37ee3a2e17e">
 
